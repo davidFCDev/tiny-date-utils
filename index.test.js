@@ -1,4 +1,4 @@
-const TinyDateUtils = require("../src/index");
+const TinyDateUtils = require("./index");
 
 test("formatDate works correctly", () => {
   const date = new Date("2025-01-22");

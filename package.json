@@ -23,8 +23,7 @@
     "url": "https://github.com/davidFCDev/tiny-date-utils/issues"
   },
   "homepage": "https://github.com/davidFCDev/tiny-date-utils#readme",
-  "dependencies": {},
   "devDependencies": {
-    "jest": "^29.0.0"
+    "jest": "^29.7.0"
   }
 }
