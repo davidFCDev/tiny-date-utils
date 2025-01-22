@@ -1,0 +1,30 @@
+{
+  "name": "tiny-date-utils",
+  "version": "1.0.0",
+  "description": "A lightweight utility library for basic date manipulation in JavaScript.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "date",
+    "utils",
+    "javascript",
+    "date-format",
+    "lightweight"
+  ],
+  "author": "Tu Nombre <tuemail@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidFCDev/tiny-date-utils"
+  },
+  "bugs": {
+    "url": "https://github.com/davidFCDev/tiny-date-utils/issues"
+  },
+  "homepage": "https://github.com/davidFCDev/tiny-date-utils#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
