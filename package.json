@@ -1,6 +1,6 @@
 {
   "name": "tiny-date-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight utility library for basic date manipulation in JavaScript.",
   "main": "src/index.js",
   "scripts": {
